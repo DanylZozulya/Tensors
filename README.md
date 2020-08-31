@@ -1,18 +1,18 @@
 # Tensors
-#Implementation of tensors (numpy-like arrays) in C++.
+Implementation of tensors (numpy-like arrays) in C++.
 
-#The following operations are implemented:
+The following operations are implemented:
 
-#Adding (tensor + number, tensor + tensor)
+1.Adding (tensor + number, tensor + tensor)
 
-#Subtracting (tensor - number, tensor - tensor)
+2.Subtracting (tensor - number, tensor - tensor)
 
-#Multiplication (tensor * tensor pointwise, tensor * number pointwise)
+3.Multiplication (tensor * tensor pointwise, tensor * number pointwise)
 
-#Division
+4.Division
 
-#Reshaping
+5.Reshaping
 
-#Copying
+6.Copying
 
-#Getting subtensor
+7.Getting subtensor
